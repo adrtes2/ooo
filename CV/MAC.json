@@ -1,0 +1,362 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Luis",
+      "surnames": "Benítez",
+      "title": "Auxiliar",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ_S9HHUQxm0cRibFa3Ta16mA)",
+        "country": "Liechtenstein"
+      }
+    }
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Bank of America"
+        },
+        "roles": [
+          {
+            "name": "Gerente de oficina",
+            "startDate": "2023-03-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DSM"
+        },
+        "roles": [
+          {
+            "name": "Administrador de cuenta",
+            "startDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Reckitt"
+        },
+        "roles": [
+          {
+            "name": "Director responsable de equipo",
+            "startDate": "2020-05-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Optum"
+        },
+        "roles": [
+          {
+            "name": "Propietario",
+            "startDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Boehringer Ingelheim"
+        },
+        "roles": [
+          {
+            "name": "Maestro",
+            "startDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Lenovo"
+        },
+        "roles": [
+          {
+            "name": "Jubilado",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Oxiteno"
+        },
+        "roles": [
+          {
+            "name": "Jefe de operaciones",
+            "startDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Julian Jewel's AI Bot"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de software",
+            "startDate": "2017-07-01",
+            "finishDate": "2021-06-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UNICEF"
+        },
+        "roles": [
+          {
+            "name": "Practicante universitaria",
+            "startDate": "2016-08-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tesla"
+        },
+        "roles": [
+          {
+            "name": "Director",
+            "startDate": "2015-02-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atos"
+        },
+        "roles": [
+          {
+            "name": "A cargo",
+            "startDate": "2014-03-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Deloitte"
+        },
+        "roles": [
+          {
+            "name": "Especialista de proyecto",
+            "startDate": "2013-05-01",
+            "finishDate": "2023-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "AbbVie"
+        },
+        "roles": [
+          {
+            "name": "Administrador de cuenta",
+            "startDate": "2013-04-01",
+            "finishDate": "2018-05-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Michael Page"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de software",
+            "startDate": "2013-02-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SEPHORA"
+        },
+        "roles": [
+          {
+            "name": "Representante del servicio de atención al cliente",
+            "startDate": "2010-08-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Elevance Health"
+        },
+        "roles": [
+          {
+            "name": "Propietario",
+            "startDate": "2009-06-01",
+            "challenges": [
+              {
+                "description": "eeeeeeeee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Oracle"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar",
+            "startDate": "2009-05-01",
+            "finishDate": "2010-07-31",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Schneider Electric"
+        },
+        "roles": [
+          {
+            "name": "Auxiliar",
+            "startDate": "2008-05-01",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SGS"
+        },
+        "roles": [
+          {
+            "name": "Supervisor",
+            "startDate": "2006-06-01",
+            "finishDate": "2021-09-30",
+            "challenges": [
+              {
+                "description": "TBD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Wipro"
+        },
+        "roles": [
+          {
+            "name": "Especialista en posicionamiento web",
+            "startDate": "2006-02-01",
+            "finishDate": "2023-01-31",
+            "challenges": [
+              {
+                "description": "wwwwwwwwwwwwwwwwwwww"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "contactMails": [
+        "adrian.test2@getmanfred.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Account Executive",
+        "Accounts & Payroll"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
