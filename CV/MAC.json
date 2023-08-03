@@ -352,6 +352,15 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "ggggg"
+        },
+        "type": "launch",
+        "publishingDate": "2000-01-01"
+      }
     ]
   },
   "knowledge": {
