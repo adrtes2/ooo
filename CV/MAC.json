@@ -349,6 +349,12 @@
   },
   "careerPreferences": {
     "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/dbonillaffrrrrrrrrr",
+          "type": "linkedin"
+        }
+      ],
       "contactMails": [
         "adrian.test2@getmanfred.com"
       ],
