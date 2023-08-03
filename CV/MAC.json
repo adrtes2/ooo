@@ -23,6 +23,12 @@
         "fact": "894"
       }
     ],
+    "recommendations": [
+      {
+        "title": "874",
+        "type": "reading"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "other",
@@ -449,6 +455,11 @@
     "desiredJobDescription": "jajaja",
     "goodPractices": "29259625629519851952",
     "projects": [
+      {
+        "name": "874"
+      }
+    ],
+    "bookmarks": [
       {
         "name": "874"
       }
