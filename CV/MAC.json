@@ -352,6 +352,12 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Account Executive",
         "Accounts & Payroll",
