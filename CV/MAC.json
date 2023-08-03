@@ -17,6 +17,12 @@
         "municipality": "Rishikesh"
       }
     },
+    "interestingFacts": [
+      {
+        "topic": "6666",
+        "fact": "894"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "other",
