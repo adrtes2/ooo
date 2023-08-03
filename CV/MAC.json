@@ -351,6 +351,12 @@
     "contact": {
       "contactMails": [
         "adrian.test2@getmanfred.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "789654123",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
