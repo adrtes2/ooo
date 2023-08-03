@@ -359,6 +359,21 @@
         ]
       }
     ],
+    "projects": [
+      {
+        "details": {
+          "name": "874"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "1950-01-01",
+            "finishDate": "1950-02-01"
+          }
+        ]
+      }
+    ],
     "publicArtifacts": [
       {
         "details": {
@@ -432,6 +447,11 @@
   },
   "manfredSpecificData": {
     "desiredJobDescription": "jajaja",
-    "goodPractices": "29259625629519851952"
+    "goodPractices": "29259625629519851952",
+    "projects": [
+      {
+        "name": "874"
+      }
+    ]
   }
 }
