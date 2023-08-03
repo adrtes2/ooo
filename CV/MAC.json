@@ -15,7 +15,13 @@
         "region": "Uttarakhand",
         "municipality": "Rishikesh"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://rrrr.com"
+      }
+    ]
   },
   "experience": {
     "jobs": [
