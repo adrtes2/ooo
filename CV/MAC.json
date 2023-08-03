@@ -358,6 +358,12 @@
           "type": "technology"
         }
       ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        }
+      ],
       "preferredRoles": [
         "Account Executive",
         "Accounts & Payroll",
