@@ -363,6 +363,22 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "sdfsdfasdfsd"
+        },
+        "roles": [
+          {
+            "name": "Fullstack",
+            "startDate": "1950-04-01",
+            "challenges": [
+              {
+                "description": "98745"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
