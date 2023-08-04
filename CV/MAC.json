@@ -391,6 +391,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "DE",
+        "level": "Limited working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
