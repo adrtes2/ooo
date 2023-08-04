@@ -399,6 +399,17 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "333",
+        "startDate": "1950-04-01",
+        "institution": {
+          "name": "werqwerqwe"
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
@@ -460,6 +471,12 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Abap",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "jajaja",
     "goodPractices": "29259625629519851952",
     "projects": [
