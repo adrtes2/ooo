@@ -391,6 +391,14 @@
     ]
   },
   "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Abap",
+          "type": "technology"
+        }
+      }
+    ],
     "softSkills": [
       {
         "skill": {
