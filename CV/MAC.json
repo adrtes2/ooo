@@ -408,6 +408,15 @@
         "institution": {
           "name": "werqwerqwe"
         }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "55",
+        "startDate": "1950-10-01",
+        "institution": {
+          "name": "JUAN"
+        }
       }
     ],
     "softSkills": [
