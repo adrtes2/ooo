@@ -2,7 +2,7 @@
 
 # Luisuf Benítezr's CV
 
-This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format.
+This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/39d92f2a-62f5-4cd56-9bb5-8aa95ddf5e2c).
 <br/>
 <br/>
 
