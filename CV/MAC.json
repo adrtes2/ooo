@@ -439,6 +439,16 @@
         "institution": {
           "name": "JUAN"
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "rerrrrr",
+        "startDate": "1950-08-01",
+        "institution": {
+          "name": "r"
+        },
+        "finishDate": "1950-11-01"
       }
     ],
     "softSkills": [
